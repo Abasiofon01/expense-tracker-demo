@@ -27,7 +27,7 @@
       placeholder="Confirm new password"
     />
 
-    <template #button-text> Update Password </template>
+    <template #buttonText> Update Password </template>
     <template #footer>
       Remembered? Back to <router-link to="/login">Login</router-link>
     </template>
